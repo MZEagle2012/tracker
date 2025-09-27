@@ -1,0 +1,58 @@
+div {
+    color: red;
+    background-color: black;
+    font-size: 30px;
+    border: 2px transparent blue;
+    padding: 0px;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+img {
+    width: 500px;
+    height: 3px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.Primeiro-gato {
+    color: chocolate;
+}
+
+p {
+    font-size: 60px;
+}
+
+html{
+    background-color: rgb(21, 21, 21);
+    color: rgb(233, 234, 234);
+
+}
+
+.cta {
+    background-color: tomato;
+    margin-top: 16px;
+    margin-left: 42px;
+    margin: 16px 32px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: crosshair;
+    transition: 200ms;
+    max-width: 400px;
+}
+
+.cta:hover {
+    background-color: orange;
+}
+
+.cor-foda{
+    color: blue;
+}
+
+.classe-toggle{
+    background-color: aquamarine;    
+}
